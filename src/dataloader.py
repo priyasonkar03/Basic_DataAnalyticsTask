@@ -1,5 +1,7 @@
 import pandas as pd
 import os
+
+# ============First Step
 # def get_csv(file):
 #     df = pd.read_csv(file)
 #     return df
@@ -8,7 +10,7 @@ import os
 
 # # get_csv(df)
 # print(get_csv(df))
-
+# ============Second Step
 def data_load(path):
     """
     Load Student performance data from CSV file
